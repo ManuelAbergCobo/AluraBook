@@ -1,13 +1,22 @@
 <h1 align="center">Alura Book</h1>
-# Índice 
+# INDEX:
 
-* [Título e Imagem de capa](h1)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+* [Sobre el Proyecto](#Sobre-el-Proyecto)
+* [Herramientas utilizadas](#Herramientas-utilizadas)
+* [Programador](#Programador)
+
+# Sobre el Proyecto:
+Este es un proyecto ejemplo, una página web de una librería dedicada a la programación
+donde fue utilizado Html y Css, flexbox y mobilefirst, siendo así una página 100% responsiva.
+
+## Herramientas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Programador:
+
+### Manuel Caetano Aberg Cobo F.
