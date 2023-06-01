@@ -8,7 +8,6 @@
 # Sobre el Proyecto:
 Este es un proyecto ejemplo, una página web de una librería dedicada a la programación
 donde fue utilizado Html y Css, flexbox y mobilefirst, siendo así una página 100% responsiva.
-Link para el proyecto final: manuelabergcobo.github.io/AluraBook/
 
 
 ![AluraBook_-_Opera_2023-06-01_16-04-05_AdobeExpress](https://github.com/ManuelAbergCobo/AluraBook/assets/129859872/ac9f2e4e-9f50-40c1-8657-e1b61d469024)
