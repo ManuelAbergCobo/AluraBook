@@ -1,9 +1,13 @@
 <h1 align="center">Alura Book</h1>
+
+
 # INDEX:
 
 * [Sobre el Proyecto](#Sobre-el-Proyecto)
 * [Herramientas utilizadas](#Herramientas-utilizadas)
 * [Desarrollador](#Desarrollador)
+
+
 
 # Sobre el Proyecto:
 Este es un proyecto ejemplo, una página web de una librería dedicada a la programación
@@ -14,6 +18,8 @@ donde fue utilizado Html y Css, flexbox y mobilefirst, siendo así una página 1
 
 
 
+
+
 ## Herramientas utilizadas:
 
 * HTML
@@ -21,6 +27,9 @@ donde fue utilizado Html y Css, flexbox y mobilefirst, siendo así una página 1
 * CSS
 
 * Flex-box
+
+
+
 
 ## Desarrollador:
 
